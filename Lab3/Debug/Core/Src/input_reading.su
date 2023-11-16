@@ -1,0 +1,6 @@
+../Core/Src/input_reading.c:21:15:KeyInput	16	static
+../Core/Src/input_reading.c:40:6:subKeyProcess	16	static
+../Core/Src/input_reading.c:45:6:subKeyLongProcess	16	static
+../Core/Src/input_reading.c:51:5:isPressedButton	16	static
+../Core/Src/input_reading.c:64:5:isLongPressButton	16	static
+../Core/Src/input_reading.c:77:6:getKeyInput	16	static

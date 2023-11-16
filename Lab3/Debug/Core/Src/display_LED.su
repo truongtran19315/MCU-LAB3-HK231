@@ -1,0 +1,7 @@
+../Core/Src/display_LED.c:10:6:TurnOnLED	16	static
+../Core/Src/display_LED.c:14:6:TurnOffLED	16	static
+../Core/Src/display_LED.c:18:6:ToggleLED	16	static
+../Core/Src/display_LED.c:22:6:ClearAllLED	8	static
+../Core/Src/display_LED.c:32:6:ClearLEDSEG	8	static
+../Core/Src/display_LED.c:56:6:display7SEG	24	static
+../Core/Src/display_LED.c:172:6:displayLEDSEGCountingDown	56	static

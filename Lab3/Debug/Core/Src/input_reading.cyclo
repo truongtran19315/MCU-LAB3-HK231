@@ -1,0 +1,6 @@
+../Core/Src/input_reading.c:21:15:KeyInput	5
+../Core/Src/input_reading.c:40:6:subKeyProcess	1
+../Core/Src/input_reading.c:45:6:subKeyLongProcess	1
+../Core/Src/input_reading.c:51:5:isPressedButton	3
+../Core/Src/input_reading.c:64:5:isLongPressButton	3
+../Core/Src/input_reading.c:77:6:getKeyInput	8
